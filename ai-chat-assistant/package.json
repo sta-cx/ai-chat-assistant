@@ -1,0 +1,25 @@
+{
+  "name": "ai-chat-assistant",
+  "version": "1.0.0",
+  "description": "AI Chat Assistant - A Vue 3 based chat interface",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.3.0",
+    "element-plus": "^2.4.0",
+    "axios": "^1.6.0",
+    "highlight.js": "^11.9.0",
+    "marked": "^11.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.0",
+    "vite": "^5.0.0"
+  }
+}
