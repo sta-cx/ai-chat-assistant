@@ -1,0 +1,39 @@
+# 后端忽略文件
+/backend/target/
+/backend/.mvn/wrapper/maven-wrapper.jar
+/backend/.idea
+/backend/*.iws
+/backend/*.iml
+/backend/*.ipr
+/backend/.apt_generated
+/backend/.classpath
+/backend/.factorypath
+/backend/.project
+/backend/.settings
+/backend/.springBeans
+/backend/.sts4-cache
+/backend/.vscode/
+
+# 前端忽略文件
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.DS_Store
+/frontend/.env.local
+/frontend/.env.*.local
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+/frontend/.idea/
+/frontend/.vscode/
+/frontend/*.suo
+/frontend/*.ntvs*
+/frontend/*.njsproj
+/frontend/*.sln
+/frontend/*.sw?
+
+# 日志文件
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db 
